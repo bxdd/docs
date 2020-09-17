@@ -8,6 +8,13 @@ QLib is a Quantitative-research Library, which can provide research data with hi
 
 Document Structure
 ====================
+
+.. toctree::
+   :hidden:
+
+   Home <index.rst>
+
+
 .. toctree::
    :maxdepth: 3
    :caption: GETTING STARTED:
