@@ -16,6 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
+sys.path.insert(0, os.path.abspath('.'))
 
 project = 'test'
 copyright = '2020, bxdd'
