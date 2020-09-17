@@ -10,7 +10,6 @@ Document Structure
 ====================
 
 .. toctree::
-   :hidden:
 
    self
 
