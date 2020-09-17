@@ -10,11 +10,6 @@ Document Structure
 ====================
 
 .. toctree::
-
-   self
-
-
-.. toctree::
    :maxdepth: 3
    :caption: GETTING STARTED:
 

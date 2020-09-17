@@ -58,4 +58,6 @@ Api
 ==========
 
 .. automodule:: mlib.base
-    :members:
+   :members:
+   :undoc-members:
+   :show-inheritance:
