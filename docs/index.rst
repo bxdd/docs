@@ -1,0 +1,23 @@
+============================================================
+QLib Documentation
+============================================================
+
+QLib is a Quantitative-research Library, which can provide research data with highly consistency, reusability and extensibility.
+
+.. _user_guide:
+
+Document Structure
+====================
+
+.. toctree::
+   :hidden:
+
+   Home <index.rst>
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: GETTING STARTED:
+
+   Initialization <start/initialization.rst>
+
