@@ -12,7 +12,7 @@ Document Structure
 .. toctree::
    :hidden:
 
-   Home <index.rst>
+   Home <self>
 
 
 .. toctree::
